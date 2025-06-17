@@ -27,3 +27,5 @@ Nessa aula vamos criar um objeto para centralizar as informações de uma despes
 # Criando a função para adicionar uma nova despesa
 Nessa aula vamos criar uma função para adicionar uma nova despesa na lista. A função inclui um bloco try catch para lidar com exceções, exibindo mensagens de erro no console e alertas para o usuário.
 
+# Criando a li
+Nessa aula, vamos criar os elementos dinâmicos que farão parte da lista de despesas. Utilizaremos o JavaScript para criar um novo item de despesa, adicionando classes de estilização.
