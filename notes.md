@@ -9,3 +9,5 @@ Nessa aula vamos aprender como acessar o repositório no GitHub para clonar o pr
 # Criando o arquivo de scripts
 Nesta aula, aprenderemos a criar um arquivo de script.js e conectá-lo ao HTML. Conectar o JavaScript é essencial para o funcionamento correto da página web.
 
+# Capturando o evento de input
+Neste projeto, vamos aprender como validar um input de despesa para aceitar apenas números. Vamos selecionar o elemento no HTML usando seu ID e aprender como criar um evento para capturar a entrada de conteúdo no input.
