@@ -20,3 +20,6 @@ Nessa aula vamos aprender como formatar um input para o padrão do Real Brasilei
 
 # Obtendo os dados do formulário
 Nessa aula vamos obter informações do formulário adicionando um evento de submit para manipular as informações digitadas pelo usuário.
+
+# Criando um objeto de nova despesa
+Nessa aula vamos criar um objeto para centralizar as informações de uma despesa.
