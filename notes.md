@@ -11,3 +11,6 @@ Nesta aula, aprenderemos a criar um arquivo de script.js e conectá-lo ao HTML. 
 
 # Capturando o evento de input
 Neste projeto, vamos aprender como validar um input de despesa para aceitar apenas números. Vamos selecionar o elemento no HTML usando seu ID e aprender como criar um evento para capturar a entrada de conteúdo no input.
+
+# Aceitando somente números no valor
+Nessa aula, vamos aprender a remover letras de um input utilizando espressões regulares (regex). Ao digitar no input, as letras serão removidas, mantendo apenas os números.
