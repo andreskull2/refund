@@ -1,0 +1,2 @@
+# Aula de boas vindas
+Nesta etapa, vamos desenvolver um projeto de sistema de reembolso usando JavaScript. O foco será aplicar o conhecimento anterior e dar vida à aplicação. O HTML e CSS serão compartilhados para nos concentrarmos no JavaScript. Vamos unir as peças e aplicar todo o conhecimento para criar algo incrível. Prepare-se para aprender e se divertir com este projeto! 
