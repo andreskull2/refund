@@ -29,3 +29,6 @@ Nessa aula vamos criar uma função para adicionar uma nova despesa na lista. A 
 
 # Criando a li
 Nessa aula, vamos criar os elementos dinâmicos que farão parte da lista de despesas. Utilizaremos o JavaScript para criar um novo item de despesa, adicionando classes de estilização.
+
+# Criando o ícone da categoria
+Nessa aula vamos aprender como adicionar um ícone de categoria dinamicamente em um item de despesa.
