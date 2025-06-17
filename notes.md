@@ -17,3 +17,6 @@ Nessa aula, vamos aprender a remover letras de um input utilizando espressões r
 
 # Formatando a moeda
 Nessa aula vamos aprender como formatar um input para o padrão do Real Brasileiro e, para isso, vamos usar o método toLocaleString com a localidade pt-br e a formatação de moeda BRL. O valor é convertido para centavos antes de aplicar a formatação, permitindo a atualização automática do input conforme o usuário digita.
+
+# Obtendo os dados do formulário
+Nessa aula vamos obter informações do formulário adicionando um evento de submit para manipular as informações digitadas pelo usuário.
