@@ -14,3 +14,6 @@ Neste projeto, vamos aprender como validar um input de despesa para aceitar apen
 
 # Aceitando somente números no valor
 Nessa aula, vamos aprender a remover letras de um input utilizando espressões regulares (regex). Ao digitar no input, as letras serão removidas, mantendo apenas os números.
+
+# Formatando a moeda
+Nessa aula vamos aprender como formatar um input para o padrão do Real Brasileiro e, para isso, vamos usar o método toLocaleString com a localidade pt-br e a formatação de moeda BRL. O valor é convertido para centavos antes de aplicar a formatação, permitindo a atualização automática do input conforme o usuário digita.
