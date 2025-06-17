@@ -23,3 +23,7 @@ Nessa aula vamos obter informações do formulário adicionando um evento de sub
 
 # Criando um objeto de nova despesa
 Nessa aula vamos criar um objeto para centralizar as informações de uma despesa.
+
+# Criando a função para adicionar uma nova despesa
+Nessa aula vamos criar uma função para adicionar uma nova despesa na lista. A função inclui um bloco try catch para lidar com exceções, exibindo mensagens de erro no console e alertas para o usuário.
+
