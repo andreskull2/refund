@@ -47,3 +47,6 @@ Nessa aula vamos entender como criar a atualização dinâmica de despesas em um
 
 # Percorrendo os itens da lista
 Nessa aula vamos criar o cálculo do total das despesas de uma lista utilizando um loop for para percorrer cada item da lista e selecionar o valor de despesa de cada um. 
+
+# Calculando o valor total
+Nessa aula, vamos remover caracteres não numéricos e substituir vírgulas por pontos para garantir que os valores sejam válidos para cálculos. Vamos converter os valores para float, verificando se são números válidos antes de incrementá-los ao total. 
