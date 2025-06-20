@@ -38,3 +38,6 @@ Nessa aula, vamos criar um item de despesa, incluindo a exibição do nome e da 
 
 # Criando o valor da despesa
 Nessa aula, vamos criar o processo de adicionar o valor da despesa.
+
+# Criando o ícone de remover
+Durante essa aula, vamos adicionar o ícone de remover em um item da lista. 
