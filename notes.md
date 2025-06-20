@@ -35,3 +35,6 @@ Nessa aula vamos aprender como adicionar um ícone de categoria dinamicamente em
 
 # Criando a informação da despesa
 Nessa aula, vamos criar um item de despesa, incluindo a exibição do nome e da categoria. Vamos aprender como adicionar essas informações em elementos HTML, como div, strong e span, e como organizá-los dentro da estrutura da página. Vamos ver a importância de adicionar esses elementos em cascata, mostrando como cada informação é adicionada dentro do elemento anterior.
+
+# Criando o valor da despesa
+Nessa aula, vamos criar o processo de adicionar o valor da despesa.
