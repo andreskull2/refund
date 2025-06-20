@@ -44,3 +44,6 @@ Durante essa aula, vamos adicionar o ícone de remover em um item da lista.
 
 # Exibindo a quantidade de itens da lista
 Nessa aula vamos entender como criar a atualização dinâmica de despesas em uma lista. Vamos criar funções para adicionar itens e atualizar os totais.
+
+# Percorrendo os itens da lista
+Nessa aula vamos criar o cálculo do total das despesas de uma lista utilizando um loop for para percorrer cada item da lista e selecionar o valor de despesa de cada um. 
