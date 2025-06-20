@@ -19,7 +19,7 @@ amount.oninput = () => {
    amount.value = formatCurrencyBRL(value)
 }
 
-function formatCurrencyBRL(value){
+function formatCurrencyBRL(value) {
    // Formata o valor no padrão BRL (Real Brasileiro)
    value = value.toLocaleString("pt-BR", {
       style: "currency",
@@ -52,16 +52,31 @@ form.onsubmit = (event) => {
 function expenseAdd(newExpense) {
    try {
       // Cria o elemento para adicionar o item (li) na lista (ul).
-      const expenseItem = document.createAttribute("li")
+      const expenseItem = document.createElement("li")
       expenseItem.classList.add("expense")
 
      // Cria o ícone da categoria.
      const expenseIcon = document.createElement("img")
      expenseIcon.setAttribute("src", `img/${newExpense.category_id}.svg`)
      expenseIcon.setAttribute("alt", newExpense.category_name)
+
+     // Cria a informação da despesa.
+     const expenseInfo = document.createElement("div")
+     expenseInfo.classList.add("expense-info")
+
+     // Cria o nome da despesa.
+     const expenseName = document.createElement("strong")
+     expenseName.textContent = newExpense.expense
+
+     // Cria a categoria da despesa
+     const expenseCategory = document.createElement("span")
+     expenseCategory.textContent = newExpense.category_name
+
+     // Adiciona name e categoria na div das informações da despesa.
+     expenseInfo.append(expenseName, expenseCategory)
      
      // Adiciona as informações no item
-     expenseItem.append(expenseIcon)
+     expenseItem.append(expenseIcon, expenseInfo)
 
      // Adiciona o item 
      expenseList.append(expenseItem)
@@ -71,4 +86,5 @@ function expenseAdd(newExpense) {
       console.log(error)
    }
 }
+
 
