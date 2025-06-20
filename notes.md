@@ -41,3 +41,6 @@ Nessa aula, vamos criar o processo de adicionar o valor da despesa.
 
 # Criando o ícone de remover
 Durante essa aula, vamos adicionar o ícone de remover em um item da lista. 
+
+# Exibindo a quantidade de itens da lista
+Nessa aula vamos entender como criar a atualização dinâmica de despesas em uma lista. Vamos criar funções para adicionar itens e atualizar os totais.
