@@ -62,3 +62,6 @@ Nesta aula, vamos aprender como remover um item de uma lista ao clicar no ícone
 
 # Cuidando da usabilidade
 Nessa aula vamos cuidar da usabilidade e aprender como limpar os campos do formulário após adicionar uma nova despesa, melhorando a experiência do usuário. Além disso, vamos cuidar de pequenos detalhes, como focar automaticamente no campo de entrada após limpar os campos. 
+
+# Encerramento do projeto
+Nessa aula temos o encerramento do projeto
