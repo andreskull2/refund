@@ -60,3 +60,5 @@ Nessa aula, vamos implementar um método para capturar no ícone de remoção de
 # Removendo um item da lista
 Nesta aula, vamos aprender como remover um item de uma lista ao clicar no ícone de remover.
 
+# Cuidando da usabilidade
+Nessa aula vamos cuidar da usabilidade e aprender como limpar os campos do formulário após adicionar uma nova despesa, melhorando a experiência do usuário. Além disso, vamos cuidar de pequenos detalhes, como focar automaticamente no campo de entrada após limpar os campos. 
