@@ -56,3 +56,7 @@ Nessa aula vamos abordar a formatação de valores em JavaScript, destacando a i
 
 # Capturando o clique para remover uma despesa
 Nessa aula, vamos implementar um método para capturar no ícone de remoção de um item selecionado em uma lista. Vamos utilizar um evento de clique nos itens da lista e verificar se o elemento clicado é o ícone de remoção. Para isso, vamos fazer uma verificação da classe do elemento clicado para identificar se é ou não ícone de remoção. Essa estratégica permite saber quando o clique ocorre especificamente no ícone de remoção, possibilitando a remoção do item da lista.
+
+# Removendo um item da lista
+Nesta aula, vamos aprender como remover um item de uma lista ao clicar no ícone de remover.
+
