@@ -50,3 +50,6 @@ Nessa aula vamos criar o cálculo do total das despesas de uma lista utilizando 
 
 # Calculando o valor total
 Nessa aula, vamos remover caracteres não numéricos e substituir vírgulas por pontos para garantir que os valores sejam válidos para cálculos. Vamos converter os valores para float, verificando se são números válidos antes de incrementá-los ao total. 
+
+# Formatando o valor total
+Nessa aula vamos abordar a formatação de valores em JavaScript, destacando a importância de separar a formatação em métodos para reutilização. Vamos aprender como adicionar um símbolo de moeda e formatar corretamente os valores, evitando erros com a vírgula decimal.
