@@ -53,3 +53,6 @@ Nessa aula, vamos remover caracteres não numéricos e substituir vírgulas por 
 
 # Formatando o valor total
 Nessa aula vamos abordar a formatação de valores em JavaScript, destacando a importância de separar a formatação em métodos para reutilização. Vamos aprender como adicionar um símbolo de moeda e formatar corretamente os valores, evitando erros com a vírgula decimal.
+
+# Capturando o clique para remover uma despesa
+Nessa aula, vamos implementar um método para capturar no ícone de remoção de um item selecionado em uma lista. Vamos utilizar um evento de clique nos itens da lista e verificar se o elemento clicado é o ícone de remoção. Para isso, vamos fazer uma verificação da classe do elemento clicado para identificar se é ou não ícone de remoção. Essa estratégica permite saber quando o clique ocorre especificamente no ícone de remoção, possibilitando a remoção do item da lista.
